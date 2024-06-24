@@ -1,4 +1,4 @@
-# Anomaly Detection on MVTec Dataset
+# Anomaly Detection on MVTec Dataset Using Supervised & Unsupervised Techniques
 
 This repository contains code for anomaly detection on the MVTec dataset using both supervised and unsupervised machine learning approaches.
 
